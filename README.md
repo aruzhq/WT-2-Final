@@ -27,6 +27,8 @@ git clone https://github.com/aruzhq/WT-2-Final.git
 
 Navigate to the project directory, install dependencies.
 
+In order to use Nodemailer correctly, go here (https://myaccount.google.com/apppasswords?rapt=AEjHL4MGc0wDxiFeZF-NNMMnEnUgfazCPfcbwlYS_6h4v4wdO-yjDN2Qsi9D_6tEy64HDJti90KjMmeJikNLgk-WhnrxN_xffueZ3wX0-B52ANyTi61ZnAY) and generate password for Nodemailer app. If you have difficulties, you need to turn on 2FA on your Google account. When you write your data in .env, EMAIL_USER is your email, EMAIL_PASS is your generated(!) password.
+
 ---
 
 ## API-usage-details
